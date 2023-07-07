@@ -1,0 +1,5 @@
+Following python libraries are necessary required for the  correct execution of code:
+
+numpy
+ttkbootstrap=0.5.1
+
