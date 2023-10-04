@@ -1,5 +1,5 @@
 
-# Sorting Algorithm Visualizer
+# Sorting-Algorithm-Visualizer
 
 A Python application for visualizing various sorting algorithms using Tkinter for the graphical user interface.
 
